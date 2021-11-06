@@ -12,14 +12,14 @@ composer.json
 ```
 {
     "require": {
-        "aiwozhe/ethereum-client": "^1.1"
+        "happyyyyyyyyy/ethereum-client": "^1.1"
     }
 }
 ```
 
 然后`composer update`即可。
 
-> 或者直接 `composer require aiwozhe/ethereum-client`
+> 或者直接 `composer require happyyyyyyyyy/ethereum-client`
 
 # 使用
 详细使用请参考`examples`文件夹
